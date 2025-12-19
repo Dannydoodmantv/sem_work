@@ -1,0 +1,21 @@
+*{
+    background-image: url('bg.png');
+    background-repeat: repeat-y;
+    font-family: 'Satoshi', sans-serif;
+  
+}
+
+body{
+  padding: 0px !important;
+    margin: 0px !important;
+}
+
+header{
+    color: white;
+    background: #222E3F;
+    width: 100%;
+   padding: 2vh;
+   text-align: center;
+   font-size: 2vh;
+   font-weight: 600
+}
